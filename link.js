@@ -13,10 +13,10 @@ class Link{
         World.add(engine.world,this.link);
     } 
 
-    dettach()
-    {
-      World.remove(engine.world,this.link);
-     
-    }
+
+    // adicione a função que remove a a conexão entre a corda e a fruta
+    
+    
+    
 }
 
